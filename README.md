@@ -18,6 +18,7 @@ Here are some technologies and tools that I work with:
 - Databases: [Databases you're familiar with]
 - DevOps: [Tools and platforms you use for deployment and infrastructure]
 - Tools: [Any other tools or software you frequently use]
+- Socket Programming
 
 ## 🌱 What I'm Currently Learning
 
