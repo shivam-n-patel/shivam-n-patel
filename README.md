@@ -32,12 +32,6 @@ I'm currently focused on improving my skills in [specific areas or technologies 
 
 Feel free to reach out if you want to discuss technology, collaborate on projects, or just have a chat!
 
-## 📈 GitHub Stats
-
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
-
-<!-- Optional: add more sections like "Projects," "Featured Repositories," or "Blog Posts" -->
-
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
