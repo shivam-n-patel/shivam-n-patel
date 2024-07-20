@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate developer & EDM Music Producer/DJ, 
 
 Here are some technologies and tools that I work with:
 
-- Programming Languages: Python
+- Programming Languages: C, C++, JAVA, Javascript, Python
 - Frontend: ReactJs, Material UI
 - Backend: NodeJs
 - Databases: SQL, MySQL, MongoDB
