@@ -26,7 +26,7 @@ I'm currently focused on learning/improving my skills in Cyber Security and web 
 ## 🌍 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Mail](shivam31033727484@gmail.com)
+- [Mail](mailto:shivam31033727484@gmail.com)
 <!-- - [Portfolio](https://your-portfolio-website.com) -->
 
 Feel free to reach out if you want to discuss technology, collaborate on projects, or just have a chat!
