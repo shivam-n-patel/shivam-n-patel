@@ -31,12 +31,11 @@ I'm currently focused on learning/improving my skills in Cyber Security and web 
 
 Feel free to reach out if you want to discuss technology, collaborate on projects, or just have a chat!
 
-
+<!-- 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 - [Title of Blog Post 1](link-to-blog-post-1)
 - [Title of Blog Post 2](link-to-blog-post-2)
-<!-- BLOG-POST-LIST:END -->
+-->
 
 Happy coding! ✨
