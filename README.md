@@ -6,31 +6,31 @@ Welcome to my GitHub profile! I'm passionate developer & EDM Music Producer/DJ, 
 
 - 💼 I'm currently a Student at Nirma University.
 - 🌱 I’m always learning and exploring new technologies.
-- 👯 I’m looking to collaborate on [specific types of projects or interests].
+- 👯 I’m looking to collaborate on ReactJS, Machine Learning and Cyber Security.
 
 ## 🔧 Technologies & Tools
 
 Here are some technologies and tools that I work with:
 
 - Programming Languages: Python
-- Frontend: [Frameworks and libraries you use for the frontend]
-- Backend: [Frameworks and tools you use for the backend]
-- Databases: [Databases you're familiar with]
-- DevOps: [Tools and platforms you use for deployment and infrastructure]
-- Tools: [Any other tools or software you frequently use]
+- Frontend: ReactJs, Material UI
+- Backend: NodeJs
+- Databases: SQL, MySQL, MongoDB
+- Tools: Git & Github
 - Socket Programming
 
 ## 🌱 What I'm Currently Learning
 
-I'm currently focused on improving my skills in [specific areas or technologies you're learning]. I believe in lifelong learning and staying updated with the latest industry trends.
+I'm currently focused on learning/improving my skills in Cyber Security and web development. I believe in lifelong learning and staying updated with the latest industry trends.
 
 ## 🌍 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Portfolio](https://your-portfolio-website.com)
+- [Mail](shivam31033727484@gmail.com)
+<!-- - [Portfolio](https://your-portfolio-website.com) -->
 
 Feel free to reach out if you want to discuss technology, collaborate on projects, or just have a chat!
+
 
 ## 📝 Latest Blog Posts
 
