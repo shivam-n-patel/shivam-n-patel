@@ -25,7 +25,7 @@ I'm currently focused on learning/improving my skills in Cyber Security and web 
 
 ## 🌍 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- [LinkedIn](https://www.linkedin.com/in/shivam3103patel/)
 - [Mail](mailto:shivam31033727484@gmail.com)
 <!-- - [Portfolio](https://your-portfolio-website.com) -->
 
